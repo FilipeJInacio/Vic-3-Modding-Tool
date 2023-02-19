@@ -1,19 +1,26 @@
-# Vic-3-Modding-Tool
+# Vic 3 Modding Tool
 
-Era - Completed
 
-Goods - Completed
 
-Modifiers - Completed (Testing)
+| Content  | Type | Guide Status |
+| ------------- | ------------- | ------------- |
+| Building Groups  | Code  | No Guide  |
+| Buildings  | Code  | No Guide  |
+| Canals  | Code  | No Guide  |
+| Cultures  | Code  | No Guide  |
+| Decrees  | Code  | No Guide  |
+| Eras  | Form/Code  | Meh Guide |
+| Goods  | Form/Code  | No Guide  |
+| Institutions  | Form/Code  | No Guide  |
+| Law Groups  | Code  | No Guide  |
+| Laws  | Code  | No Guide  |
+| Modifier Types  | Form/Code  | No Guide  |
+| Modifiers  | Form/Code  | No Guide  |
+| Pop Needs  | Form/Code  | No Guide  |
+| Pop Types  | Code  | No Guide  |
+| Production Method Groups  | Form/Code  | No Guide  |
+| Production Methods  | Code  | No Guide  |
+| Religions  | Form/Code  | No Guide  |
+| State Traits  | Form/Code  | No Guide  |
+| Technologies  | Form/Code  | Meh Guide  |
 
-Modifier Types - Completed (Testing)
-
-Pop Needes - Completed (Testing)
-
-Pop Types - Not Completed
-
-Production Methods - Not Completed
-
-Religions - Comleted (Not really working)
-
-Technology - Completed
