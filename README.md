@@ -5,25 +5,25 @@ Unfortunantly the .exe got to big that doesn't fit on github, download here: htt
 
 
 
-| Content  | Type | Guide Status |
-| ------------- | ------------- | ------------- |
-| Building Groups  | Code  | No Guide  |
-| Buildings  | Code  | No Guide  |
-| Canals  | Code  | No Guide  |
-| Cultures  | Code  | No Guide  |
-| Decrees  | Code  | No Guide  |
-| Eras  | Form/Code  | Meh Guide |
-| Goods  | Form/Code  | No Guide  |
-| Institutions  | Form/Code  | No Guide  |
-| Law Groups  | Code  | No Guide  |
-| Laws  | Code  | No Guide  |
-| Modifier Types  | Form/Code  | No Guide  |
-| Modifiers  | Form/Code  | No Guide  |
-| Pop Needs  | Form/Code  | No Guide  |
-| Pop Types  | Code  | No Guide  |
-| Production Method Groups  | Form/Code  | No Guide  |
-| Production Methods  | Code  | No Guide  |
-| Religions  | Form/Code  | No Guide  |
-| State Traits  | Form/Code  | No Guide  |
-| Technologies  | Form/Code  | Meh Guide  |
+| Content  | Type | Guide Status | AutoComplete/Debug |
+| ------------- | ------------- | ------------- |------------- |
+| Building Groups  | Code  | No Guide  | Simple |
+| Buildings  | Code  | No Guide  |Simple |
+| Canals  | Code  | No Guide  |Simple |
+| Cultures  | Code  | No Guide  |Simple |
+| Decrees  | Code  | No Guide  |Simple |
+| Eras  | Form/Code  | Meh Guide |Simple |
+| Goods  | Form/Code  | No Guide  |Simple |
+| Institutions  | Form/Code  | No Guide  |Simple |
+| Law Groups  | Code  | No Guide  |Simple |
+| Laws  | Code  | No Guide  |Simple |
+| Modifier Types  | Form/Code  | No Guide  |Simple |
+| Modifiers  | Form/Code  | No Guide  |Simple |
+| Pop Needs  | Form/Code  | No Guide  |Simple |
+| Pop Types  | Code  | No Guide  |Simple |
+| Production Method Groups  | Form/Code  | No Guide  |Simple |
+| Production Methods  | Code  | No Guide  |Simple |
+| Religions  | Form/Code  | No Guide  |Simple |
+| State Traits  | Form/Code  | No Guide  |Simple |
+| Technologies  | Form/Code  | Meh Guide  |Simple |
 
